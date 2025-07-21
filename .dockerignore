@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+*.md
+.vscode/
+.idea/
+*.log
+titanic-project/.git/
+titanic-project/titanic_eda.ipynb 
