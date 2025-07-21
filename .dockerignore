@@ -9,4 +9,4 @@ __pycache__/
 .idea/
 *.log
 titanic-project/.git/
-titanic-project/titanic_eda.ipynb 
+titanic-project/titanic_eda.ipynb  

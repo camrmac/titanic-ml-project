@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def analyze_titanic():
+def analyze_titanic():  
     # Análise básica do dataset Titanic
     print("🚢 Analisador Titanic Containerizado")
     print("=" * 40)
